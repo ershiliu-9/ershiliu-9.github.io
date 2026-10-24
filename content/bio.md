@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I work across **research, technology, and creative practice**, turning complex questions into clear and useful things.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+This site is a home for selected projects, notes, and the ideas I am currently exploring. Replace this paragraph with a short introduction: what you do, what matters to you, and what kind of work you hope to do next.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+> Currently open to thoughtful collaborations and conversations.

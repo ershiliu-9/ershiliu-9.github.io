@@ -1,0 +1,15 @@
+type = "card"
+title = "Experience"
+description = "A concise timeline of the places, roles, and questions that shaped my work."
+
+[[items]]
+title = "Current role"
+subtitle = "Organization · Location"
+date = "2024—Now"
+content = "Add one sentence about your scope, followed by one measurable or memorable contribution."
+
+[[items]]
+title = "Previous role or education"
+subtitle = "Organization · Location"
+date = "2021—2024"
+content = "Explain what you learned, built, or changed here."

@@ -1,0 +1,24 @@
+type = "card"
+title = "Selected Projects"
+description = "A small selection of work. Replace these starter cards with projects that best represent how you think and build."
+
+[[items]]
+title = "Flagship project"
+subtitle = "Your role · Organization"
+date = "2026"
+content = "Describe the problem, your contribution, and the result in two or three concise sentences. Add a [project link](https://example.com) when ready."
+tags = ["Research", "Design", "Technology"]
+
+[[items]]
+title = "Research or writing"
+subtitle = "Independent work"
+date = "2025"
+content = "Summarize the central question and why the work matters. Link to a paper, article, demo, or repository."
+tags = ["Writing", "Open source"]
+
+[[items]]
+title = "Collaboration"
+subtitle = "Team project"
+date = "2025"
+content = "Show the kind of collaboration you want more of, with a concrete contribution and outcome."
+tags = ["Collaboration", "Prototype"]

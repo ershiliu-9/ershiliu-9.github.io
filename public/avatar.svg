@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Personal profile placeholder</title>
+  <desc id="desc">An abstract warm-toned monogram ready to be replaced by a portrait.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5efe5"/>
+      <stop offset="0.52" stop-color="#dfb17a"/>
+      <stop offset="1" stop-color="#a05f45"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.25" cy="0.18" r="0.8">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="68" fill="url(#bg)"/>
+  <circle cx="130" cy="112" r="210" fill="url(#glow)"/>
+  <path d="M-30 416C84 299 166 342 236 254c75-95 156-96 310-22v310H-30Z" fill="#173f3a" opacity="0.92"/>
+  <path d="M-18 477c109-96 200-70 281-139 67-57 136-75 273-29v233H-18Z" fill="#102d2a" opacity="0.7"/>
+  <text x="256" y="286" text-anchor="middle" font-family="Georgia, serif" font-size="132" font-weight="700" fill="#fff" letter-spacing="-8">YN</text>
+</svg>

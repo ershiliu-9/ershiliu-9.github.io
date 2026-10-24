@@ -1,26 +1,21 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
-
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
+**Your University**, Degree or Program, *Year — Year*
+Focus: your field, thesis topic, or concentration.
 
 ## Experience
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+**Your Role** · Organization, *Year — Present*
+
+- Lead with scope and outcomes, not a task list.
+- Add evidence: scale, impact, adoption, publication, or recognition.
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+- **Methods:** your strongest research or professional methods
+- **Tools:** languages, platforms, and software you use confidently
+- **Languages:** language and proficiency
 
-## Awards & Honors
+## Selected recognition
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+- Award, fellowship, certification, or invited talk — *Year*
