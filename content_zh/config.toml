@@ -5,26 +5,44 @@ last_updated = "2026年10月24日"
 
 [author]
 name = "王卓瑶"
-title = "AI researcher"
+title = "AI 研究者"
 institution = "黑龙江"
 
+[social]
+location = "中国黑龙江"
+location_details = [
+  "中国黑龙江"
+]
+
 [[navigation]]
-title = "关于"
+title = "关于我"
 type = "page"
 target = "about"
 href = "/"
 
 [[navigation]]
-title = "项目"
+title = "论文"
 type = "page"
-target = "projects"
-href = "/projects"
+target = "publications"
+href = "/publications"
 
 [[navigation]]
-title = "经历"
+title = "教学"
 type = "page"
-target = "experience"
-href = "/experience"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "奖项"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "服务"
+type = "page"
+target = "services"
+href = "/services"
 
 [[navigation]]
 title = "简历"

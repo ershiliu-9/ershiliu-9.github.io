@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
+@font-face {
+  font-family: "Georgia CDN";
+  src: url("https://jialeliu.com/fonts/georgiab.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
 /* Explicitly set dark mode to use class strategy */
 @variant dark (&:where(.dark, .dark *));
 
@@ -10,13 +18,13 @@
   --background: #fefffe;
   --foreground: #0f172a;
   
-  /* Brand colors - Ink, pine & warm clay */
-  --primary: #173f3a;
-  --primary-light: #285951;
-  --primary-dark: #102d2a;
-  --accent: #b86f4b;
-  --accent-light: #cf8b68;
-  --accent-dark: #914e35;
+  /* Brand colors - Deep Navy & Gold */
+  --primary: #1e293b;
+  --primary-light: #334155;
+  --primary-dark: #0f172a;
+  --accent: #d4a562;
+  --accent-light: #e4b976;
+  --accent-dark: #b8914d;
   
   /* Neutral colors */
   --neutral-50: #f8fafc;
@@ -78,7 +86,7 @@
   
   /* Typography */
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  --font-serif: Georgia, 'Times New Roman', serif;
+  --font-serif: 'Georgia CDN', Georgia, serif;
   --font-mono: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
   
   /* Font sizes */
@@ -174,10 +182,6 @@ body {
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image:
-    radial-gradient(circle at 8% 8%, color-mix(in srgb, var(--accent) 7%, transparent), transparent 30rem),
-    radial-gradient(circle at 92% 28%, color-mix(in srgb, var(--primary) 5%, transparent), transparent 34rem);
-  background-attachment: fixed;
 }
 
 /* Typography utilities */

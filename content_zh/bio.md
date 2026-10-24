@@ -1,7 +1,7 @@
-I’m drawn to problems that begin as a tangled knot—half technical, half human, and usually more interesting than they first appear.
+我喜欢那些一开始像一团线的问题——一半关于技术，一半关于人，而且往往比第一眼看上去更有意思。
 
-My work moves between research, technology, and creative practice. I enjoy finding the hidden structure inside complex ideas, then shaping them into tools, stories, or experiences that feel surprisingly simple.
+我的工作游走在研究、技术与创作之间。我享受从复杂想法中找到隐藏的结构，再把它们变成清晰的工具、故事或体验。
 
-This site is a living notebook of things I’ve built, questions I haven’t finished answering, and ideas worth returning to.
+这个网站是一册持续生长的笔记：记录做过的事、尚未回答的问题，以及值得反复回看的想法。
 
-> Always curious. Occasionally certain. Open to thoughtful collaborations.
+> 保持好奇，偶尔确信，也始终欢迎认真而有趣的合作。

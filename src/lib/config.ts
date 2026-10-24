@@ -7,7 +7,6 @@ export interface SiteConfig {
   site: {
     title: string;
     description: string;
-    url: string;
     favicon: string;
     last_updated?: string;
   };

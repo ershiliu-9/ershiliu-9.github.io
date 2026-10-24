@@ -49,7 +49,7 @@ export default function Profile({ author, social, features, researchInterests }:
     useEffect(() => {
         if (!features.enable_likes) return;
 
-        const userHasLiked = localStorage.getItem('prism-profile-user-liked');
+        const userHasLiked = localStorage.getItem('jiale-website-user-liked');
         if (userHasLiked === 'true') {
             setHasLiked(true);
         }
@@ -60,11 +60,11 @@ export default function Profile({ author, social, features, researchInterests }:
         setHasLiked(newLikedState);
 
         if (newLikedState) {
-            localStorage.setItem('prism-profile-user-liked', 'true');
+            localStorage.setItem('jiale-website-user-liked', 'true');
             setShowThanks(true);
             setTimeout(() => setShowThanks(false), 2000);
         } else {
-            localStorage.removeItem('prism-profile-user-liked');
+            localStorage.removeItem('jiale-website-user-liked');
             setShowThanks(false);
         }
     };
@@ -76,7 +76,7 @@ export default function Profile({ author, social, features, researchInterests }:
             icon: EnvelopeIcon,
             isEmail: true,
         }] : []),
-        ...(social.location || (social.location_details?.length ?? 0) > 0 ? [{
+        ...(social.location || social.location_details ? [{
             name: messages.profile.location,
             href: social.location_url || '#',
             icon: MapPinIcon,

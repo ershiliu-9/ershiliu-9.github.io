@@ -1,5 +1,7 @@
-I work across **research, technology, and creative practice**, turning complex questions into clear and useful things.
+I’m drawn to problems that begin as a tangled knot—half technical, half human, and usually more interesting than they first appear.
 
-This site is a home for selected projects, notes, and the ideas I am currently exploring. Replace this paragraph with a short introduction: what you do, what matters to you, and what kind of work you hope to do next.
+My work moves between research, technology, and creative practice. I enjoy finding the hidden structure inside complex ideas, then shaping them into tools, stories, or experiences that feel surprisingly simple.
 
-> Currently open to thoughtful collaborations and conversations.
+This site is a living notebook of things I’ve built, questions I haven’t finished answering, and ideas worth returning to.
+
+> Always curious. Occasionally certain. Open to thoughtful collaborations.
