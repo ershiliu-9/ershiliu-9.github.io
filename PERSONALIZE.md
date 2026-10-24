@@ -11,4 +11,4 @@ The site is intentionally ready to run before personal details are available. Re
 
 Run `npm run dev` for local editing and `npm run build` to export the static site to `out/`.
 
-Pushes to the `main` branch of `zhuoywang/zhuoywang.github.io` deploy automatically to <https://zhuoywang.github.io/> through GitHub Actions.
+Pushes to the `main` branch of `ershiliu-9/ershiliu-9.github.io` deploy automatically to <https://ershiliu-9.github.io/> through GitHub Actions.
