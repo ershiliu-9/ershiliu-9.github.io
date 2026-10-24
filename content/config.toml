@@ -9,7 +9,7 @@ last_updated = "October 24, 2026"
 name = "Your Name"
 title = "Researcher · Developer · Creator"
 institution = "Your institution or city"
-avatar = "/avatar.svg"
+avatar = "/me.png"
 
 [social]
 # Add your real links below. Leave a value blank to hide it.

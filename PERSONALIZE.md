@@ -7,7 +7,7 @@ The site is intentionally ready to run before personal details are available. Re
 - `content_zh/projects.toml` and `content/projects.toml`: selected work.
 - `content_zh/experience.toml` and `content/experience.toml`: timeline.
 - `content_zh/cv.md` and `content/cv.md`: full résumé.
-- `public/avatar.svg`: replace with a portrait and update `author.avatar` in `content/config.toml` if the filename changes.
+- `me.png`: replace with a portrait and update `author.avatar` in `content/config.toml` if the filename changes.
 
 Run `npm run dev` for local editing and `npm run build` to export the static site to `out/`.
 

@@ -3,9 +3,9 @@ title = "关于"
 
 [profile]
 research_interests = [
-  "你的方向一",
-  "你的方向二",
-  "一个持续探索的问题"
+  "Agentic RL",
+  "World Model",
+  "MARL"
 ]
 
 [[sections]]

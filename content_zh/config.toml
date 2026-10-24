@@ -1,12 +1,12 @@
 [site]
-title = "你的名字"
-description = "记录研究、项目与想法的个人主页。"
+title = "王卓瑶"
+description = "记录我的研究、项目与思考，分享持续探索的问题与实践。"
 last_updated = "2026年10月24日"
 
 [author]
-name = "你的名字"
-title = "研究者 · 开发者 · 创作者"
-institution = "你的机构或所在城市"
+name = "王卓瑶"
+title = "AI researcher"
+institution = "黑龙江"
 
 [[navigation]]
 title = "关于"
