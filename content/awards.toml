@@ -1,27 +1,57 @@
 type = "card"
 title = "Awards"
-description = "Honors and awards I have received."
+description = "Selected honors from my academic work, research, and competitions."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Outstanding Graduate of Liaoning Province"
+subtitle = "Liaoning Province"
+date = "2026"
+content = "Recognized as an Outstanding Graduate of Liaoning Province."
+
+[[items]]
+title = "Second-Class Scholarship"
+subtitle = "Northeastern University"
 date = "2025"
-content = "Description of the award."
+content = "Awarded the Northeastern University Second-Class Scholarship."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "National Scholarship"
+subtitle = "Ministry of Education of China"
+date = "2023, 2024"
+content = "Two-time recipient of the National Scholarship."
+
+[[items]]
+title = "Future Technology Taihu Scholarship"
+subtitle = "Future Technology Taihu Scholarship"
+date = "2023, 2024"
+content = "Two-time recipient of the scholarship."
+
+[[items]]
+title = "National Third Prize, Mathematical Contest in Modeling"
+subtitle = "U.S. Mathematical Contest in Modeling"
 date = "2024"
-content = "Description of the award."
+content = "Received a national third prize in mathematical modeling."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "National Second Prize, Shuwei Cup"
+subtitle = "International Mathematical Modeling Challenge"
+date = "2024"
+content = "Received a national second prize in the international challenge."
+
+[[items]]
+title = "National Third Prize, RAICOM"
+subtitle = "RAICOM Robot Developer Competition"
+date = "2023, 2024"
+content = "Received national third prizes in two consecutive years."
+
+[[items]]
+title = "Outstanding Student Model"
+subtitle = "Software College, Northeastern University"
 date = "2023"
-content = "Description of the award."
+content = "Selected as one of 19 honorees from 2,100 students."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "Outstanding Student Leader Model"
+subtitle = "Software College, Northeastern University"
+date = "2023"
+content = "Selected as the sole honoree among 297 students in the program."

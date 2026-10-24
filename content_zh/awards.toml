@@ -1,27 +1,57 @@
 type = "card"
 title = "奖项"
-description = "我获得的荣誉与奖项。"
+description = "在学习、科研与竞赛中获得的代表性荣誉。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "辽宁省优秀毕业生"
+subtitle = "辽宁省"
+date = "2026"
+content = "获评辽宁省优秀毕业生。"
+
+[[items]]
+title = "东北大学二等奖学金"
+subtitle = "东北大学"
 date = "2025"
-content = "奖项说明。"
+content = "获东北大学二等奖学金。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "国家奖学金"
+subtitle = "教育部"
+date = "2023、2024"
+content = "连续两年获得国家奖学金。"
+
+[[items]]
+title = "未来技术太湖奖学金"
+subtitle = "未来技术太湖奖学金"
+date = "2023、2024"
+content = "连续两年获得未来技术太湖奖学金。"
+
+[[items]]
+title = "美国大学生数学建模竞赛国家级三等奖"
+subtitle = "美国大学生数学建模竞赛"
 date = "2024"
-content = "奖项说明。"
+content = "在数学建模竞赛中获得国家级三等奖。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "数维杯国际大学生数学建模挑战赛国家级二等奖"
+subtitle = "数维杯国际大学生数学建模挑战赛"
+date = "2024"
+content = "在国际大学生数学建模挑战赛中获得国家级二等奖。"
+
+[[items]]
+title = "睿抗机器人开发者大赛国家级三等奖"
+subtitle = "RAICOM 睿抗机器人开发者大赛"
+date = "2023、2024"
+content = "连续两年获得国家级三等奖。"
+
+[[items]]
+title = "东北大学软件学院优秀学生标兵"
+subtitle = "东北大学软件学院"
 date = "2023"
-content = "奖项说明。"
+content = "学院 2100 名学生中评选 19 人。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2022"
-content = "奖项说明。"
+title = "东北大学软件学院优秀学生干部标兵"
+subtitle = "东北大学软件学院"
+date = "2023"
+content = "专业 297 名学生中评选 1 人。"

@@ -1,15 +1,21 @@
 type = "card"
 title = "Experience"
-description = "A concise timeline of the places, roles, and questions that shaped my work."
+description = "My path from software engineering to research on intelligent agents."
 
 [[items]]
-title = "Current role"
-subtitle = "Organization · Location"
-date = "2024—Now"
-content = "Add one sentence about your scope, followed by one measurable or memorable contribution."
+title = "Ph.D. in Intelligent Science and Technology"
+subtitle = "Harbin Institute of Technology · SCIR Laboratory"
+date = "2026—2031 (expected)"
+content = "Direct-entry doctoral study focused on World Models and Agentic Reinforcement Learning."
 
 [[items]]
-title = "Previous role or education"
-subtitle = "Organization · Location"
-date = "2021—2024"
-content = "Explain what you learned, built, or changed here."
+title = "Algorithm Intern"
+subtitle = "Du Xiaoman Financial · Intelligent Computing Department"
+date = "Dec 2025—Jun 2026"
+content = "Worked as an algorithm intern in the Intelligent Computing Department."
+
+[[items]]
+title = "B.Eng. in Software Engineering"
+subtitle = "Northeastern University · Software College"
+date = "2022—2026"
+content = "Artificial Intelligence track; GPA 4.0239/5.0, ranked 17/297 (top 5%)."

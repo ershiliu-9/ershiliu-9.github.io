@@ -1,15 +1,21 @@
 type = "card"
 title = "经历"
-description = "一条简洁的时间线，记录塑造我工作方式的地点、角色与问题。"
+description = "从软件工程训练到智能体研究的学习与实践轨迹。"
 
 [[items]]
-title = "当前角色"
-subtitle = "机构 · 地点"
-date = "2024—至今"
-content = "用一句话说明你的工作范围，再补充一项可量化或令人印象深刻的贡献。"
+title = "智能科学与技术博士（直博）"
+subtitle = "哈尔滨工业大学计算学部 · SCIR 实验室"
+date = "2026—2031（预计）"
+content = "研究世界模型（World Models）与智能体强化学习（Agentic RL）。"
 
 [[items]]
-title = "过往经历或教育背景"
-subtitle = "机构 · 地点"
-date = "2021—2024"
-content = "说明你在这里学到了什么、完成了什么，或带来了怎样的改变。"
+title = "算法实习生"
+subtitle = "度小满 · 智能计算部"
+date = "2025.12—2026.06"
+content = "在智能计算部从事算法岗位实习。"
+
+[[items]]
+title = "软件工程本科"
+subtitle = "东北大学软件学院 · 人工智能方向"
+date = "2022—2026"
+content = "GPA 4.0239/5.0，专业排名 17/297（前 5%）。"
